@@ -1,1 +1,1 @@
-print("learning computer science is good")
+print("learning computer science is good experience")
